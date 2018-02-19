@@ -1,3 +1,3 @@
 # HavelHakimi
 
-A small demonstation of the Havel-Hakimi Theorem from undirected graph theory.
+A small demonstration of the Havel-Hakimi Theorem from undirected graph theory.
